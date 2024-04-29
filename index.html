@@ -2,7 +2,37 @@
 <html lang="en">
 
 <head>
-  <!-- Google Tag Manager -->
+    <style>
+        /* Your existing CSS styles */
+        body {
+          margin: 0;
+          padding: 0;
+          overflow: hidden; /* Prevent scrollbar */
+          background-color: #f8f9fa; /* Set a background color */
+        }
+    
+        /* Add animation for tech-related background */
+        @keyframes techAnimation {
+          0% { transform: translateY(-50px); }
+          50% { transform: translateY(50px); }
+          100% { transform: translateY(-50px); }
+        }
+    
+        .tech-background {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          background-image: url('path/to/your/tech-background-image.jpg');
+          background-size: cover;
+          z-index: -1; /* Place behind other content */
+          animation: techAnimation 10s infinite; /* Adjust timing as needed */
+        }
+      </style>
+
+
+    <!-- Google Tag Manager -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
   j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
@@ -357,7 +387,8 @@
   <!-- End Experience Section -->
 
 
-<!-- Start Project Section -->
+
+  <!-- Start Project Section -->
   <section id="portfolio" class="portfolio">
     <div class="container">
 
