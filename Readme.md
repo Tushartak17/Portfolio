@@ -61,8 +61,8 @@ Dynamic and results-oriented B.Tech student from Swami Keshvanand Institute of T
 - AI Fundamentals: Completed Generative AI Fundamentals program at Google and Intermediate Problem Solving certification at HackerRank.
 
 ## Contact 📧
-- 📧 Email: work.tushartak@gmail.com
-- 🌐 LinkedIn: [Tushar Tak's LinkedIn](https://www.linkedin.com/in/tushar-tak/)
+- 📧 Email: tushartak.work@gmail.com
+- 🌐 LinkedIn: [Tushar Tak's LinkedIn](https://www.linkedin.com/in/tushartak/)
 
 
 
